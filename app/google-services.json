@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560400085724",
+    "project_id": "re-mind-ab834",
+    "storage_bucket": "re-mind-ab834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560400085724:android:f9b86abe8a08250179ba19",
+        "android_client_info": {
+          "package_name": "com.example.remind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDstFOpux7kJCAIy2-XaRUE1i5KRDKN2CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
