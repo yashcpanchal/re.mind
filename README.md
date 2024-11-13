@@ -1,3 +1,3 @@
 # re.mind
 
-MakeUC Hackathon Project | Aarush Assudani, Yash Panchal, Arnav Dantaluri, Dhruv Gupta, Raghav Raghunath
+MakeUC Hackathon Project | Yash Panchal, Arnav Dantaluri, Aarush Assudani, Dhruv Gupta, Raghav Raghunath
